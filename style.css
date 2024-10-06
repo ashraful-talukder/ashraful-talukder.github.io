@@ -389,7 +389,7 @@ span{
     line-height: 22px;
 }
 
-/* ::-webkit-scrollbar{
+::-webkit-scrollbar{
     width: 15px;
 }
 
@@ -400,4 +400,4 @@ span{
  ::-webkit-scrollbar-track{
     background-color: var(--bg-color);
     width: 50px;
- } */
+ }
