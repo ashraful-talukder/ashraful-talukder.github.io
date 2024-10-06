@@ -243,23 +243,23 @@ span{
 @keyframes words{
     0%,
     20%{
-        content: "Lecturer";
+        content: "Researcher";
     }
     21%,
     40%{
-        content: "Researcher";
+        content: "Lecturer";
     }
     41%,
     60%{
-        content: "Web Developer";
+        content: "Data Scientist";
     }
     61%,
     80%{
-        content: "Software Engineer";
+        content: "Web Developer";
     }
     81%,
     100%{
-        content: "Expert";
+        content: "Problem Solver";
     }
 
 }
